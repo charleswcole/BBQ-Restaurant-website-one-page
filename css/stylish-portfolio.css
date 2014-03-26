@@ -237,7 +237,11 @@ i.scroll:hover {
 
 #transparent{
 background-color:rgba(50,0,0,0.5);
-width: 750px;
+max-width: 750px;
 padding-top:15px;
 padding-bottom:15px;
+}
+
+#transparent h1{
+padding-top:45px;
 }
